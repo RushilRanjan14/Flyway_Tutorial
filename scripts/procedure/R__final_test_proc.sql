@@ -3,7 +3,7 @@ CREATE OR REPLACE PROCEDURE final_test()
     LANGUAGE JAVASCRIPT
     AS
     $$
-    return 7;
+    return 10;
     $$
     ;
     
