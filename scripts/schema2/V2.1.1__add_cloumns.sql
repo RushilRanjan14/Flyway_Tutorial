@@ -1,0 +1,1 @@
+alter TABLE ${Schema2}.SAMPLE_TABLE_THREE add column new_col string;
